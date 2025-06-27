@@ -23,6 +23,11 @@
 # misc
 .DS_Store
 *.pem
+*.key
+*.pub
+key_pairs
+key_*
+.ssh/
 
 # debug
 npm-debug.log*
@@ -39,4 +44,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-"my-next-app/" 
